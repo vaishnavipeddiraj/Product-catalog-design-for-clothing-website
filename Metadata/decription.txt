@@ -1,0 +1,1 @@
+All details needed for unstructured data loading into snowflake
